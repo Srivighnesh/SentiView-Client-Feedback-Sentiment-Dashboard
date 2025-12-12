@@ -1,4 +1,3 @@
-Here’s a well-structured GitHub README.md version of your project description: 
 
  
 
@@ -123,31 +122,4 @@ Sentiment distribution graph
 Summary metrics 
 
  
-
-🚀 How to Run 
-
-Clone the repository: git clone https://github.com/your-username/SentiView.git 
-
-Navigate to the project directory: cd SentiView 
-
-Set up backend (Spring Boot) and database (MySQL). 
-
-Configure AWS Comprehend credentials. 
-
-Start the application and access the dashboard via browser. 
-
- 
-
-📌 Future Enhancements 
-
-Real-time feedback ingestion 
-
-Advanced NLP (topic modeling, entity recognition) 
-
-Integration with CRM tools (Salesforce, Zendesk) 
-
- 
-
-Would you like me to add badges (Build Status, License, Tech Stack) and a diagram of the architecture to make this README more visually appealing for GitHub? Or should I also include sample screenshots and usage instructions? 
-
  
